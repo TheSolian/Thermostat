@@ -1,0 +1,15 @@
+C:\Users\Levin Gsell\Desktop\Schule\BBB\426\8031\Code8031\obj\Debug\net7.0\Code8031.csproj.AssemblyReference.cache
+C:\Users\Levin Gsell\Desktop\Schule\BBB\426\8031\Code8031\obj\Debug\net7.0\Code8031.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levin Gsell\Desktop\Schule\BBB\426\8031\Code8031\obj\Debug\net7.0\Code8031.AssemblyInfoInputs.cache
+C:\Users\Levin Gsell\Desktop\Schule\BBB\426\8031\Code8031\obj\Debug\net7.0\Code8031.AssemblyInfo.cs
+C:\Users\Levin Gsell\Desktop\Schule\BBB\426\8031\Code8031\obj\Debug\net7.0\Code8031.csproj.CoreCompileInputs.cache
+C:\Users\Levin Gsell\Desktop\Schule\BBB\426\8031\Code8031\bin\Debug\net7.0\Code8031.exe
+C:\Users\Levin Gsell\Desktop\Schule\BBB\426\8031\Code8031\bin\Debug\net7.0\Code8031.deps.json
+C:\Users\Levin Gsell\Desktop\Schule\BBB\426\8031\Code8031\bin\Debug\net7.0\Code8031.runtimeconfig.json
+C:\Users\Levin Gsell\Desktop\Schule\BBB\426\8031\Code8031\bin\Debug\net7.0\Code8031.dll
+C:\Users\Levin Gsell\Desktop\Schule\BBB\426\8031\Code8031\bin\Debug\net7.0\Code8031.pdb
+C:\Users\Levin Gsell\Desktop\Schule\BBB\426\8031\Code8031\obj\Debug\net7.0\Code8031.dll
+C:\Users\Levin Gsell\Desktop\Schule\BBB\426\8031\Code8031\obj\Debug\net7.0\refint\Code8031.dll
+C:\Users\Levin Gsell\Desktop\Schule\BBB\426\8031\Code8031\obj\Debug\net7.0\Code8031.pdb
+C:\Users\Levin Gsell\Desktop\Schule\BBB\426\8031\Code8031\obj\Debug\net7.0\Code8031.genruntimeconfig.cache
+C:\Users\Levin Gsell\Desktop\Schule\BBB\426\8031\Code8031\obj\Debug\net7.0\ref\Code8031.dll
